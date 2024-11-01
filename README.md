@@ -22,7 +22,7 @@ Modul Odoo ini dirancang untuk mengelola pemesanan ruangan secara efektif, menca
 2. **Update konfigurasi addons_path pada odoo**:
     - masukkan path clone `contoh` seperti ini `D:\odoo16\dev`.
       
-3. **buka di code editor dan jalankan diterminal **:
+3. **buka di code editor dan jalankan diterminal**:
     ```bash
     python odoo-bin -c odoo_config.CONF
     ```
