@@ -20,9 +20,9 @@ Modul Odoo ini dirancang untuk mengelola pemesanan ruangan secara efektif, menca
     git clone  https://github.com/jehuakusumadewa/Project-odoo-custom-modul.git
     ```
 2. **Update konfigurasi addons_path pada odoo**:
-    - masukkan path clone `contoh` seperti ini `D:\odoo16\dev`.
+    - Masukkan path clone `contoh` seperti ini `D:\odoo16\dev`.
       
-3. **buka di code editor dan jalankan diterminal**:
+3. **Buka di code editor dan jalankan diterminal**:
     ```bash
     python odoo-bin -c odoo_config.CONF
     ```
